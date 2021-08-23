@@ -3,7 +3,7 @@ html {
 }
 
 .hola {
-    background: url(../imagenes/portada.png) no-repeat center;
+    background: url(portada.png) no-repeat center;
     background-size: cover;
     min-height: 100vh;
 }
