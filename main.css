@@ -1,0 +1,118 @@
+html {
+    text-align: center;
+}
+
+.hola {
+    background: url(../imagenes/portada.png) no-repeat center;
+    background-size: cover;
+    min-height: 100vh;
+}
+
+.hola .navbar {
+    background-color: transparent !important;
+    position: relative;
+    top: 20px;
+}
+
+.redesnav {
+    position: relative;
+    top: -10px;
+}
+
+.redes {
+    position: relative;
+    top: 100;
+    left: 250px;
+    width: 70px;
+    height: 70px;
+}
+
+.img-tec {
+    position: relative;
+    max-width: 100%;
+    max-height: 1200px;
+}
+
+i {
+    color: #ffc371;
+}
+
+.form-control::placeholder {
+    font-size: 0.95rem;
+    color: #aaa;
+    font-style: italic;
+}
+
+.form-control.shadow-0:focus {
+    box-shadow: none;
+}
+
+.separador {
+    width: 100%;
+    height: 100px;
+    background-color: #797d1a;
+}
+
+.proyect {
+    width: 3860 px;
+    height: 1200px;
+    background-color: #b9bb58;
+}
+
+.contacto {
+    width: 100%;
+    height: 1200px;
+    background-color: #fffecb;
+}
+
+.tecnologias {
+    text-align: center;
+    font-size: 4em;
+}
+
+.lenguajes {
+    text-align: center;
+}
+
+.otros {
+    width: 3860px;
+    height: 1200px;
+    background-color: #fffecb;
+}
+
+.peluqueria {
+    position: relative;
+    top: 30px;
+    left: 50px;
+    width: 1800px;
+    border: 10px solid #797d1a;
+}
+
+.header {
+    color: #797d1a;
+    font-size: 27px;
+    padding: 10px;
+}
+
+.bigicon {
+    font-size: 35px;
+    color: #797d1a;
+    text-align: center;
+}
+
+.form-group {
+    position: relative;
+    left: 200px;
+}
+
+button {
+    position: relative;
+    left: -200px;
+    background-color: #797d1a !important;
+    border: #797d1a !important;
+    color: #fffecb !important;
+}
+
+footer {
+    background-color: #000000 !important;
+}
